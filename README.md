@@ -12,8 +12,8 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/clebersfjunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clebersfjunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 80%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebersfjunior&layout=compact&langs_count=7&theme=dracula" style="max-width: 60%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clebersfjunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebersfjunior&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;">
   </a>
 </div>
 
